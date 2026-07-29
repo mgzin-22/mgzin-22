@@ -7,8 +7,8 @@
 ###
 
 <div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/mgzin-22/mgzin-22/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=city_lights&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/mgzin-22/mgzin-22/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-stats-extended.vercel.app/api?username=mgzin-22&show_icons=true&include_all_commits=true&count_private=true&theme=city_lights&locale=pt-br" height="150" alt="stats graph" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mgzin-22&layout=compact&langs_count=5&theme=city_lights&locale=pt-br" height="150" alt="languages graph" />
 </div>
 
 ###
@@ -35,10 +35,10 @@
   <a href="https://www.instagram.com/mgzin_ds" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
-  <a href="miguelfsa738@gmail.com" target="_blank">
+  <a href="mailto:miguelfsa738@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
-  <a href="www.linkedin.com/in/miguel-feitosa-0b27992a1" target="_blank">
+  <a href="https://www.linkedin.com/in/miguel-feitosa-0b27992a1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
 </div>
